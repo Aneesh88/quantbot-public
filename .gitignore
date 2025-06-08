@@ -1,0 +1,18 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Logs and outputs
+*.log
+logs/
+trade_journal.csv
+
+# Credentials and configs
+.env
+*.json
+
+# IDEs and environments
+.vscode/
+.venv/
